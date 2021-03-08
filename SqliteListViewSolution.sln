@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteListView", "SqliteListView\SqliteListView.csproj", "{B0DE254B-51A9-4D76-BA6E-4612C6F9F59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DE254B-51A9-4D76-BA6E-4612C6F9F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DE254B-51A9-4D76-BA6E-4612C6F9F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DE254B-51A9-4D76-BA6E-4612C6F9F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DE254B-51A9-4D76-BA6E-4612C6F9F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71DBBF9-6E13-4D05-82AF-D6A0497D7C02}
+	EndGlobalSection
+EndGlobal
